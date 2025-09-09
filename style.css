@@ -102,3 +102,7 @@ button{
 button:hover{
     color: #90c0d1;
 }
+
+button.btn-pause, button.btn-reset{
+    margin-left: 10px;
+}
